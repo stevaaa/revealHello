@@ -1,8 +1,6 @@
 # ./revealHello/presentation.md
 ---
-author: Angelo Basile
-title: Reveal.js+GitHubPages+Pandoc
-date: June 21, 2017
+
 ---
 # Reveal rocks
 
